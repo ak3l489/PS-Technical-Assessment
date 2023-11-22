@@ -18,13 +18,18 @@ In this lab, we will guide you through setting up an environment to create an AI
 
 #### Setting up the Environment
 
-1. **Clone the Repository**
+1. **Install Git**
+   ```bash
+   sudo apt install git
+   ```
+   
+3. **Clone the Repository**
    ```bash
    git clone https://github.com/ak3l489/PS-Technical-Assessment.git
    cd PS-Technical-Assessment
    ```
 
-2. **Run the Installation Script**
+4. **Run the Installation Script**
    ```bash
    chmod +x install.sh
    ./install.sh
