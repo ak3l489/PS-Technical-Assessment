@@ -20,7 +20,7 @@ In this lab, we will guide you through setting up an environment to create an AI
 
 1. **Install Git**
    ```bash
-   sudo apt install git
+   sudo apt install git -y
    ```
    
 3. **Clone the Repository**
