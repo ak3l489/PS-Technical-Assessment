@@ -6,7 +6,7 @@ In the ever-evolving landscape of education, teachers are constantly exploring i
 ## Environment Setup
 
 ### Overview
-In this lab, I'll guide you through setting up an environment to create an AI-powered quiz generator using the OpenAI GPT-3 API. The environment will be built on an Ubuntu machine, and all necessary installations and configurations will be automated.
+In this lab, we'll guide you through setting up an environment to create an AI-powered quiz generator using the OpenAI GPT-3 API. The environment will be built on an Ubuntu machine, and all necessary installations and configurations will be automated.
 
 ### Environment Components
 - **Ubuntu 20.04 LTS**
