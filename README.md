@@ -48,7 +48,7 @@ Traditional quiz creation methods often involve manual effort, consuming valuabl
 
 #### Run the Quiz Generator
 
-1. **Start Jupyter Notebook**
+1. **Start Jupyter Notebook *(If not already running)***
    ```bash
    jupyter notebook
    ```
