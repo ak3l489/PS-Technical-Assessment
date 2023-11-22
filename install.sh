@@ -8,7 +8,7 @@ sudo apt upgrade -y
 sudo apt install python3 python3-pip -y
 
 # Install Python Virtual Environment
-sudo apt install python3-venv
+sudo apt install python3-venv -y
 
 # Create a virtual environment (optional but recommended)
 python3 -m venv venv
