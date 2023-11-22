@@ -14,8 +14,8 @@ source venv/bin/activate
 # Install Jupyter Notebook
 pip3 install jupyter
 
+# Provide user instructions
+echo "Environment setup complete."
+
 # Run Jupyter Notebook
 jupyter notebook
-
-# Provide user instructions
-echo "Environment setup complete.
