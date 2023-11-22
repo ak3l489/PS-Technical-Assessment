@@ -54,12 +54,15 @@ Traditional quiz creation methods often involve manual effort, consuming valuabl
    ```
 
 2. **Access the Notebook**
+
    Open your web browser and go to [http://localhost:8888](http://localhost:8888). Navigate to the `PS_GenAI_Test_Generator.ipynb` file.
 
-3. **Configure API Key**
+4. **Configure API Key**
+
    Open the Jupyter notebook (`PS_GenAI_Test_Generator.ipynb`) and replace `<YOUR_API_KEY>` with your actual OpenAI API key.   
 
-4. **Execute the Notebook**
+6. **Execute the Notebook**
+
    Select The icon in the image below to restart the kernel and run all cells.
    ![image](https://github.com/ak3l489/PS-Technical-Assessment/assets/65798312/5feb38ac-0bd9-4cbe-8951-e591e30c36c5)
 
