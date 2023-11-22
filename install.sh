@@ -14,9 +14,8 @@ source venv/bin/activate
 # Install Jupyter Notebook
 pip3 install jupyter
 
-# Deactivate the virtual environment
-deactivate
+# Run Jupyter Notebook
+jupyter notebook
 
 # Provide user instructions
-echo "Environment setup complete. To activate the virtual environment, use 'source venv/bin/activate'."
-echo "To run Jupyter Notebook, use the command 'jupyter notebook'."
+echo "Environment setup complete.
