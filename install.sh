@@ -11,11 +11,11 @@ sudo apt install python3 python3-pip -y
 python3 -m venv venv
 source venv/bin/activate
 
-# Deactivate the virtual environment
-deactivate
-
 # Install Jupyter Notebook
 pip3 install jupyter
+
+# Deactivate the virtual environment
+deactivate
 
 # Provide user instructions
 echo "Environment setup complete.
