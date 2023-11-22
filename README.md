@@ -1,7 +1,7 @@
 # Using ChatGPT API for Quiz Generation
 
 ## Introduction 
-In the ever-evolving landscape of education, teachers are constantly exploring innovative methods to engage students and enhance the learning experience. One such groundbreaking tool that has gained prominence is the AI Quiz Generator. This technology harnesses the power of artificial intelligence, specifically the OpenAI GPT-3 API, to create dynamic and personalized quizzes that can revolutionize the way educators assess and reinforce learning objectives.
+In the ever-evolving landscape of education, teachers are constantly exploring innovative methods to engage students and enhance their learning experience. One such groundbreaking tool that has gained prominence is the AI Quiz Generator. This technology harnesses the power of artificial intelligence, specifically the OpenAI GPT-3 API, to create dynamic and personalized quizzes that can revolutionize the way educators assess and reinforce learning objectives.
 
 ## Environment Setup
 
