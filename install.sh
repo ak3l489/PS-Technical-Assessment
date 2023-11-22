@@ -11,5 +11,5 @@ sudo apt install python3 python3-pip -y
 pip3 install jupyter
 
 # Provide user instructions
-echo "Environment setup complete. To activate the virtual environment, use 'source venv/bin/activate'."
+echo "Environment setup complete.
 echo "To run Jupyter Notebook, use the command 'jupyter notebook'."
