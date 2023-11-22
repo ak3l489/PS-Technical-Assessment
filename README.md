@@ -64,6 +64,7 @@ Traditional quiz creation methods often involve manual effort, consuming valuabl
 6. **Execute the Notebook**
 
    Select The icon in the image below to restart the kernel and run all cells.
+   
    ![image](https://github.com/ak3l489/PS-Technical-Assessment/assets/65798312/5feb38ac-0bd9-4cbe-8951-e591e30c36c5)
 
    This will generate an AI-powered quiz.
