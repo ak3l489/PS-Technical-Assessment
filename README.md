@@ -41,9 +41,6 @@ Traditional quiz creation methods often involve manual effort, consuming valuabl
    - Sign up or log in to your account.
    - Obtain your API key.
 
-2. **Configure API Key**
-   Open the Jupyter notebook (`PS_GenAI_Test_Generator.ipynb`) and replace `<YOUR_API_KEY>` with your actual OpenAI API key.
-
 #### Run the Quiz Generator
 
 1. **Start Jupyter Notebook**
@@ -54,5 +51,8 @@ Traditional quiz creation methods often involve manual effort, consuming valuabl
 2. **Access the Notebook**
    Open your web browser and go to [http://localhost:8888](http://localhost:8888). Navigate to the `PS_GenAI_Test_Generator.ipynb` file.
 
-3. **Execute the Notebook**
+3. **Configure API Key**
+   Open the Jupyter notebook (`PS_GenAI_Test_Generator.ipynb`) and replace `<YOUR_API_KEY>` with your actual OpenAI API key.   
+
+4. **Execute the Notebook**
    Follow the instructions in the notebook to run each cell. This will generate an AI-powered quiz.
