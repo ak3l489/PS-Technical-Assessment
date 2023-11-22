@@ -1,6 +1,8 @@
 # Using ChatGPT API for Quiz Generation
 ## Lab Description: 
-Traditional quiz creation methods often involve manual effort, consuming valuable time that educators could otherwise spend on interactive teaching. The AI Quiz Generator offers a compelling solution to this challenge, automating the quiz generation process and providing teachers with a tool to swiftly create quizzes tailored to individual student needs. In this lab, we invite you to explore the potential of the AI Quiz Generator by using a Jupyter notebook that leverages the OpenAI GPT-3 API. 
+Traditional quiz creation methods often involve manual effort, consuming valuable time that educators could otherwise spend on interactive teaching. The AI Quiz Generator offers a compelling solution to this challenge, automating the quiz generation process and providing teachers with a tool to swiftly create quizzes tailored to individual student needs. 
+
+In this lab, we invite you to explore the potential of the AI Quiz Generator by using a Jupyter notebook that leverages the OpenAI GPT-3 API. 
 
 ### Configuring OpenAI GPT-3 API
 
